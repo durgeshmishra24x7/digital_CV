@@ -157,7 +157,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**Senior Consulatant | Ernst and Young**")
-st.write("09/2023 - Present")
+st.write("05/2020 - Present")
 
 st.markdown(
     """
