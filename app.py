@@ -241,7 +241,7 @@ bck_img_urls = ["https://source.unsplash.com/AJXKxuRrUcg","https://source.unspla
 
 random_value = random.choice(bck_img_urls)    
 print("random_value: ",random_value)
-size = 600
+size = 500
 page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"] > .main {{
